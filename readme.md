@@ -1,4 +1,4 @@
-https://timina-makena.github.io/code-challange-ramen-rater/
+https://mina-kena.github.io/code-challange-ramen-rater/
 
 Ramen Rater Project Flow
 
